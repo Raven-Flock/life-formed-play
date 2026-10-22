@@ -58,20 +58,20 @@
       "bytes": 111019
     },
     {
-      "source_repo": "dust2ash7/raven-flock-assets",
-      "source_commit": "9205c1019172d124b2a8a41f138a86d0cf68d4b4",
+      "source_repo": "Raven-Flock/raven-flock-assets",
+      "source_commit": "3f2c535d75aa660151f0544dceae18f5f01a0519",
       "path": "textures/life-formed/terrain-detail/ktx2/terrain-basecolor.ktx2",
       "dest": "textures/terrain/terrain-basecolor.ktx2",
-      "sha256": "048f35edd5e6adfdac867bfa34d5bf00a5a1e8423806102e37c4d2cafb8c6873",
-      "bytes": 177261
+      "sha256": "415fcefd388b9cea22f0d630c4d4e4f40b787b64d1623baf86b388f526ab93ac",
+      "bytes": 175874
     },
     {
-      "source_repo": "dust2ash7/raven-flock-assets",
-      "source_commit": "dd202f1af9dcb4dbbee201b508f802ce8368d15b",
+      "source_repo": "Raven-Flock/raven-flock-assets",
+      "source_commit": "c157c03b083e4e4cef1adc13b74813d454d20454",
       "path": "textures/life-formed/terrain-detail/ktx2/terrain-normal.ktx2",
       "dest": "textures/terrain/terrain-normal.ktx2",
-      "sha256": "c467fad60de48a63c85aded4a060cd00c9da0108336e587087eedc904efc48d7",
-      "bytes": 243885
+      "sha256": "80022e08d45b4d2d7c9d3eef597961f897f60c4a844098d777fd65e756052e08",
+      "bytes": 763459
     },
     {
       "source_repo": "dust2ash7/raven-flock-assets",
