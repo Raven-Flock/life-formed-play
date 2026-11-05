@@ -136,6 +136,22 @@
       "dest": "textures/life-formed/ch5-props-atlas/ch5-orm.ktx2",
       "sha256": "89d7e420388dbafd6ccddde737ac4ac3a32e88377d7cfb1b6c36af53dad2a81e",
       "bytes": 21685
+    },
+    {
+      "source_repo": "Raven-Flock/raven-flock-assets",
+      "source_commit": "90b9c62ecf08eb19f3b621e2eec3be790da31f47",
+      "path": "characters/life-formed/ambient_g1_songbird_r1/ambient_g1_songbird_r1_merged_meshopt.glb",
+      "dest": "models/life-formed/ambient/ambient_g1_songbird_r1.glb",
+      "sha256": "7f487e07518eb6dfffef65955770f1aa8c90f79196252c204cd8f5c19d68c0dd",
+      "bytes": 7524
+    },
+    {
+      "source_repo": "Raven-Flock/raven-flock-assets",
+      "source_commit": "90b9c62ecf08eb19f3b621e2eec3be790da31f47",
+      "path": "characters/life-formed/ambient_g2_skimmer_r1/ambient_g2_skimmer_r1_merged_meshopt.glb",
+      "dest": "models/life-formed/ambient/ambient_g2_skimmer_r1.glb",
+      "sha256": "00c7773daadfe684917d30be71aca9aac7f81b8a34889128674885b195feea71",
+      "bytes": 3348
     }
   ]
 }
