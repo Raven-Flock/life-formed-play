@@ -152,6 +152,46 @@
       "dest": "models/life-formed/ambient/ambient_g2_skimmer_r1.glb",
       "sha256": "00c7773daadfe684917d30be71aca9aac7f81b8a34889128674885b195feea71",
       "bytes": 3348
+    },
+    {
+      "source_repo": "Raven-Flock/raven-flock-assets",
+      "source_commit": "491b7cb6e5be4d3378bfd37f4ade3d0ef10d5f0d",
+      "path": "characters/life-formed/ch5_frog_r1/ch5_frog_r1_meshopt.glb",
+      "dest": "models/life-formed/ch5-fauna/ch5_frog_r1.glb",
+      "sha256": "81e49d246e3c4be6b5987ebb2b2d44ca2170a024d02d5ad93723d2a8a3881960",
+      "bytes": 12620
+    },
+    {
+      "source_repo": "Raven-Flock/raven-flock-assets",
+      "source_commit": "491b7cb6e5be4d3378bfd37f4ade3d0ef10d5f0d",
+      "path": "characters/life-formed/ch5_dragonfly_r1/ch5_dragonfly_r1_meshopt.glb",
+      "dest": "models/life-formed/ch5-fauna/ch5_dragonfly_r1.glb",
+      "sha256": "d7c139232d1a47dbfc3fcff8986e124f70ba4e17db14302833b612c2fc1b928f",
+      "bytes": 8996
+    },
+    {
+      "source_repo": "Raven-Flock/raven-flock-assets",
+      "source_commit": "491b7cb6e5be4d3378bfd37f4ade3d0ef10d5f0d",
+      "path": "characters/life-formed/ch5_damselfly_r1/ch5_damselfly_r1_meshopt.glb",
+      "dest": "models/life-formed/ch5-fauna/ch5_damselfly_r1.glb",
+      "sha256": "ade89e36fabb72bfec0bd26fc63c92d4be394d2ab0bed4f48ed8cb49bf4b2729",
+      "bytes": 8204
+    },
+    {
+      "source_repo": "Raven-Flock/raven-flock-assets",
+      "source_commit": "491b7cb6e5be4d3378bfd37f4ade3d0ef10d5f0d",
+      "path": "characters/life-formed/ch5_crawfish_r1/ch5_crawfish_r1_meshopt.glb",
+      "dest": "models/life-formed/ch5-fauna/ch5_crawfish_r1.glb",
+      "sha256": "c1e707304f26b1813ca364902d7a2aac4337872697c985f20369bf4a8b3e87e2",
+      "bytes": 7272
+    },
+    {
+      "source_repo": "Raven-Flock/raven-flock-assets",
+      "source_commit": "491b7cb6e5be4d3378bfd37f4ade3d0ef10d5f0d",
+      "path": "textures/life-formed/ch5-returning-fauna/wing_veins_128.png",
+      "dest": "textures/life-formed/ch5-fauna/wing_veins_128.png",
+      "sha256": "fbb77ccab782a82ccb9c667756bb2ae429239fe24282a374aaddb82ca676e4b0",
+      "bytes": 945
     }
   ]
 }
