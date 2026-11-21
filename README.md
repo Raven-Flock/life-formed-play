@@ -9,4 +9,4 @@ automatically from the private source repository on every push to its main
 branch, so please don't edit files here by hand. They are replaced on the next
 publish.
 
-Built from source commit `f65d79a`.
+Built from source commit `32ff850`.
