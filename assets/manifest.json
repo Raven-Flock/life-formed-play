@@ -83,11 +83,11 @@
     },
     {
       "source_repo": "Raven-Flock/raven-flock-assets",
-      "source_commit": "2f1a196cb67708cc2ef0cd68069bc9f181e47be1",
+      "source_commit": "441c77a53b83f24bbfd457753759df4736a094bd",
       "path": "meshes/life-formed/ch5/trap/ch5-trap.glb",
       "dest": "models/life-formed/ch5/ch5-trap.glb",
-      "sha256": "f6fa9a2a54267fb4f2eb562b44ec2ba0cf6cab2aa5de9e65e06f1109929d1565",
-      "bytes": 18456
+      "sha256": "95c36a57e51fbf5430712077c46bbc5fbb6a0851896e04f7abdca4c87e855c83",
+      "bytes": 21000
     },
     {
       "source_repo": "Raven-Flock/raven-flock-assets",
